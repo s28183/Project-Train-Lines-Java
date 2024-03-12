@@ -1,4 +1,4 @@
 
-Projekt polegający na konsolowej obsłudze pociągów, wagonów i linii kolejowych w języku Java.
+A project involving console operation of trains, wagons and railway lines in Java.
 
-Prezentacja projektu: https://youtu.be/7pqvITvVAVk
+Project prezentation: https://youtu.be/7pqvITvVAVk
